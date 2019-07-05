@@ -12,18 +12,20 @@ paginate = "5"
     subtitle = "... is better than the best memory." # Subtitle of your site
     description = "Bits and pieces of experience I've acculumated along the way." # Description of your site
     authorbox = true
+    toc = true
     post_navigation = true
     postSections = ["posts"] # the section pages to show on home page and the "Recent articles" widget
 
-[Params.widgets]
-    search = true
-    recent_articles = true
-    recent_articles_num = 10 # Set the number of articles in the "Recent articles" widget
-    categories = false
-    tags = false
-    social = true
-    social_facebook = "mrxinu"
-    social_twitter = "mrxinu"
-    social_linkedin = "mrxinu"
-    social_github = "mrxinu"
-    social_email = "sklassen@gmail.com"
+[Params.sidebar]
+    home = "right"
+    list = "left"
+    single = false
+    widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+
+[Params.widgets.social]
+    facebook = "mrxinu"
+    twitter = "mrxinu"
+    instagram = "mrxinu"
+    linkedin = "mrxinu"
+    github = "mrxinu"
+    email = "sklassen@gmail.com"
