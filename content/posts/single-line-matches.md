@@ -13,7 +13,7 @@ flag in the regular expression to span the newlines with wildcards.
 
 Sample Configuration:
 
-```
+```plain
 interface Vlan23
  ip address 198.51.100.10 255.255.255.0
  no ip redirects

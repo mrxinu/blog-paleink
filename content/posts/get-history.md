@@ -17,13 +17,13 @@ the math. Of course if I were doing it in code I'd do a time span of some kind.
 Then the other day I was watching someone (and I can't remember who) and they
 did this:
 
-```
+```powershell
 Get-History -Count 1 | fl *
 ```
 
 It generated the following glorious output:
 
-```
+```plain
 Id                 : 4
 CommandLine        : gci -recurse
 ExecutionStatus    : Stopped

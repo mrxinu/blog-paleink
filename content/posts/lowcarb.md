@@ -20,7 +20,7 @@ going through it I got myself a one-year subscription for the
 The results so far:
 
 - Water intake is above their recommended daily.
-    - It was previously almost zero.
+  - It was previously almost zero.
 - I've gone with the "Keto Easy" diet initially which caps at 100g of carbs.
 - I was 41g over, then 22g over, and yesterday 19g over.
 

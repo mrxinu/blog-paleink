@@ -16,6 +16,7 @@ the call of the nerd buddy? Not this guy.
 {{< tweet 802416709714006016 >}}
 
 ### Enter: Esperanto
+
 Having had experience with other languages I was prepared to deal with genders,
 verb conjugation, various ways to pronounce letters, and other miscellaneous
 challenges.
@@ -23,12 +24,14 @@ challenges.
 > The time it takes to learn Esperanto is between 5 and 15% of what it takes to learn German, English, or Italian.
 
 ### Pronunciation
+
 You can imagine my surprise when I discovered that in Esperanto a) every letter
 has exactly one sound, b) a few letters aren’t even used, and c) there are no
 exceptions. There were a few new ones though, but even those have one and only
 one pronunciation: ĝ, ĉ, ĵ, ĥ, and ŭ.
 
 ### Verb Conjugation
+
 Nope, don’t need to do any of that. I am, you are, he/she/it is — all 'estas'.
 I like, you like, he/she/it likes — all 'ŝatas'. I have, you have, he/she/it has
  — all 'havas'. If I don’t have to look at another conjugation table, that’ll
@@ -37,6 +40,7 @@ make me a happy camper.
 > Orwell actually got the idea for Newspeak from the Esperanto language.
 
 ### Vocabulary
+
 Did you ever read 1984 by George Orwell? It used phrases like "double plus
 ungood" rather than bother with extra words “very bad”. Orwell actually got the
 idea for Newspeak from the Esperanto language. Esperanto has a relatively small
@@ -45,12 +49,14 @@ makes sense, go for it. For example, good is “bona” and bad is "malbona". Bi
 is "granda" and small is "malgranda". You can’t beat that for efficiency.
 
 ### Esperanto for Spanish Speakers
+
 This is an upcoming course from Duolingo that I’m especially excited about.
 There are an estimated 427 million Spanish speakers in the world. Could you
 imagine if we could meet them in the middle with Esperanto? How many more people
 could you communicate with? It’s amazing.
 
 ### And Saving the Best for Last
+
 The time it takes to learn Esperanto is between 5 and 15% of what it takes to
 learn German, English, or Italian. There was a study done at the University of
 Paderborn where they determined how many hours it took native French speakers to
