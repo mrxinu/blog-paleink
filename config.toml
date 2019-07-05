@@ -11,21 +11,16 @@ paginate = "5"
 [Params]
     subtitle = "... is better than the best memory." # Subtitle of your site
     description = "Bits and pieces of experience I've acculumated along the way." # Description of your site
-    authorbox = true
-    toc = true
+    post_meta = ["date", "categories"]
     post_navigation = true
-    postSections = ["posts"] # the section pages to show on home page and the "Recent articles" widget
+    authorbox = true
 
 [Params.sidebar]
     home = "right"
-    list = "left"
-    single = false
     widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
 
 [Params.widgets.social]
-    facebook = "mrxinu"
     twitter = "mrxinu"
-    instagram = "mrxinu"
     linkedin = "mrxinu"
     github = "mrxinu"
     email = "sklassen@gmail.com"
