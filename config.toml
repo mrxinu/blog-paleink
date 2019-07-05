@@ -1,0 +1,29 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "The Palest Ink"
+theme = "mainroad"
+paginate = "5"
+
+[Author]
+    name = "Steven Klassen"
+    bio = "Teaching SolarWinds new tricks since 2007; he/him; husband to @mrsxinu; daddy to Mackenzie; gopher; orthographist."
+
+[Params]
+    subtitle = "... is better than the best memory." # Subtitle of your site
+    description = "Bits and pieces of experience I've acculumated along the way." # Description of your site
+    authorbox = true
+    post_navigation = true
+    postSections = ["posts"] # the section pages to show on home page and the "Recent articles" widget
+
+[Params.widgets]
+    search = true
+    recent_articles = true
+    recent_articles_num = 10 # Set the number of articles in the "Recent articles" widget
+    categories = false
+    tags = false
+    social = true
+    social_facebook = "mrxinu"
+    social_twitter = "mrxinu"
+    social_linkedin = "mrxinu"
+    social_github = "mrxinu"
+    social_email = "sklassen@gmail.com"
