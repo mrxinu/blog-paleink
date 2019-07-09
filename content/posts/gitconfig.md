@@ -73,4 +73,4 @@ python -m pip install legit
 
 The final result is something that looks like this:
 
-![example of working git config](/static/img/working-git-config.png)
+![example of working git config](/img/working-git-config.png)
