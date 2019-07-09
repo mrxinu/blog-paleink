@@ -1,7 +1,8 @@
 ---
-title: "Gitconfig"
+title: "Setting Up Gitconfig on Windows"
 date: 2019-07-09T14:10:59-07:00
 draft: false
+slug: "gitconfig"
 ---
 
 Whenever I have to work on a remote system (usually Windows) I'll do my typical
