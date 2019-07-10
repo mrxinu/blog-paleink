@@ -39,6 +39,6 @@ your API is on `https://example.com:8080`. If you don't head to the second
 URL and port and do the "yes, I know this is a really bad idea" routine it's
 still going to fail. Once you do, it's happy sailing.
 
-![bad ssl is okay](../static/img/bad-ssl-is-okay.png)
+![bad ssl is okay](/img/bad-ssl-is-okay.png)
 
 I hope this helps someone. It was making me slightly insane.
