@@ -18,7 +18,6 @@ this:
 
 ```js
 const instance = axios.create({
-    withCredentials: true,
     httpsAgent: new https.Agent({
     rejectUnauthorized: false
     })
