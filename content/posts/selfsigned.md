@@ -16,7 +16,7 @@ No big deal, right? I'm using `axios` and I know that I can create an instance
 of it with a custom HTTPS agent that will ignore the unauthorized cert like
 this:
 
-```js
+```javascript
 const instance = axios.create({
   httpsAgent: new https.Agent({
     rejectUnauthorized: false
