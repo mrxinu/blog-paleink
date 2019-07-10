@@ -18,9 +18,9 @@ this:
 
 ```js
 const instance = axios.create({
-    httpsAgent: new https.Agent({
+  httpsAgent: new https.Agent({
     rejectUnauthorized: false
-    })
+  })
 });
 
 // use instance as you would normally (e.g., instance.get(), instance.post())
