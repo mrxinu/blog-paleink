@@ -10,8 +10,6 @@ unless you work 2 cubicles from that person? I present to you, the virtual tip j
 Amazon list with silly desktop toys and random items all under $10 (or the average price
 of a tasty beverage).
 
-Behold, my very own tip jar wish list: [https://www.amazon.com/hz/wishlist/ls/XMRX6ICQ1L1M](https://www.amazon.com/hz/wishlist/ls/XMRX6ICQ1L1M).
-
 This is amazing for a few reasons:
 
 1. No one has to bother you for your address - Amazon handles all that.
