@@ -3,7 +3,8 @@ languageCode = "en-us"
 title = "The Palest Ink"
 theme = "mainroad"
 paginate = "5"
-pygmentsUseClasses=true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
 
 [Author]
     name = "Steven Klassen"
