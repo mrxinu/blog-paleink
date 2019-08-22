@@ -4,7 +4,6 @@ title = "The Palest Ink"
 theme = "mainroad"
 paginate = "5"
 pygmentsUseClasses=true
-pygmentsCodeFences=true
 
 [Author]
     name = "Steven Klassen"

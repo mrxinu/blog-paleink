@@ -34,7 +34,7 @@ Since I can match from the interface start to the `!` at the end and look
 through the former to see if it has the string `ip helper-address` in it before
 taking the latter, this code works out:
 
-```go
+{{< highlight go >}}
 func getInterfacesWithHelpers(config string) []string {
 	re := regexp.MustCompile(`(?s)interface (\S+).*?\n!\n`)
 
@@ -49,4 +49,4 @@ func getInterfacesWithHelpers(config string) []string {
 
 	return interfaces
 }
-```
+{{< /highlight >}}
