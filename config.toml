@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "The Palest Ink"
 theme = "mainroad"
 paginate = "5"
-pygmentsCodeFences = true
+pygmentsCodefences = true
 pygmentsStyle = "trac"
 
 [Author]
