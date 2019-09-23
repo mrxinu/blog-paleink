@@ -1,6 +1,7 @@
 ---
-title: "Fire"
+title: "Updating WiFi on a Fire TV Stick Without the Remote"
 date: 2019-09-22T19:10:31-07:00
+slug: "fire"
 draft: false
 ---
 
