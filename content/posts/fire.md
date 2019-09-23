@@ -14,10 +14,10 @@ where's the remote? I can't find it. No problem, Google to the rescue. Are you
 freaking kidding me... I _need_ to be on the same WiFi it was configured with in
 use the Fire TV app on my phone... ?
 
-Gaaaaaah. Alright, so another search and I found this lovely video that saved
-the day:
+Gaaaaaah. Alright, so another search and I found this [lovely
+video](https://www.youtube.com/watch?v=UEducb_G7uY) that saved the day.
 
-{{< youtube id="UEducb_G7uY" autoplay="false" >}}
+Here were the steps:
 
 1. Set up a mobile hot spot with the previous WiFi SSID on my phone.
 2. Join that WiFi SSID with my wife's phone.
