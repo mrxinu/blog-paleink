@@ -20,7 +20,7 @@ So angry!
 
 Alright, so another search and I found this lovely video that saved the day:
 
-{{< youtube id="UEducb_G7uY" autoplay="false" >}
+{{< youtube id="UEducb_G7uY" autoplay="false" >}}
 
 The steps were as follows:
 
