@@ -14,7 +14,7 @@ where's the remote? I can't find it. No problem, Google to the rescue.
 Are you freaking kidding me... I _need_ to be on the same WiFi it was
 configured with in use the Fire TV app on my phone... ?
 
-{{< figure src="/img/angry-max-pixel.png" attr="Creator:MaxPixel's contributors Credit:https://www.maxpixel.net/ Copyright:Copyright by MaxPixel" alt="Angry woman with green hair with a fist and a pointed finger.">}}
+{{< figure src="/img/angry-max-pixel.png" caption="Created by MaxPixel's contributors" attr="Copyright by MaxPixel" attrlink="https://www.maxpixel.net/" alt="Angry woman with green hair with a fist and a pointed finger." height="300px">}}
 
 So angry!
 
