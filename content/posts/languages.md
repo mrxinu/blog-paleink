@@ -18,8 +18,6 @@ stuff in SolarWinds and so that's the route that I went with her:
 
 That went well.
 
-{{< tweet 916300870622568449 >}}
-
 Then there was a reply from [Thomas A Ianneli](https://twitter.com/tiannelli)
 asking why Go over other programming languages that we've used. I've been
 thinking about writing this up for a while, so here we are. First, a quick run
