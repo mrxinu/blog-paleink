@@ -6,5 +6,5 @@ slug: "forgotten"
 
 You know it's bad when you've completely forgotten you have a blog and then
 you get a notification that it's time to renew your domain. Oops. That being
-said I'm going to make an effor to regularly update this in the second
+said I'm going to make an effort to regularly update this in the second
 half of 2020.
