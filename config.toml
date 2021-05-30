@@ -1,12 +1,15 @@
 baseurl = "/"
-title = "The Palest Ink"
+title = "My Blog"
 theme = "ghostwriter"
+
+[Author]
+    name = "Steve Klassen"
 
 [Params]
     mainSections = ["post"]
     intro = true
-    headline = "My headline"
-    description = "My description"
+    headline = "The Palest Ink"
+    description = "... is better than the strongest memory."
     github = "https://github.com/mrxinu"
     twitter = "https://twitter.com/mrxinu"
     email = "sklassen@gmail.com"
