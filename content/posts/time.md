@@ -54,7 +54,3 @@ I'm using the default "time.windows.com" unless someone has a compelling reason
 that I should use something different. NIST maybe? Let me know in the comments.
 
 How do you track your time?
-
-UPDATE: Thanks to Dave Mason for this one.
-
-{{< tweet 893317112843964417 >}}

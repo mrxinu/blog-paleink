@@ -1,18 +1,16 @@
 baseURL = "https://mrxinu.com/"
 languageCode = "en-us"
 title = "The Palest Ink"
-theme = "mainroad"
+theme = "hugo-theme-bootstrap"
 paginate = "5"
 pygmentsCodefences = true
 pygmentsStyle = "pygments"
 
 [Author]
-    name = "Steven Klassen"
-    bio = "Passionate about teaching folx what I know; @mrsxinu's mate; Mackenzie's dad; collector of languages. He/Him"
+    name = "Steve Klassen"
 
 [Params]
     subtitle = "... is better than the best memory." # Subtitle of your site
-    description = "Bits and pieces of experience I've acculumated along the way." # Description of your site
     post_meta = ["date", "categories"]
     post_navigation = true
     authorbox = true
