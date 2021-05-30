@@ -1,0 +1,26 @@
+baseURL = "https://mrxinu.com/"
+languageCode = "en-us"
+title = "The Palest Ink"
+theme = "ghostwriter"
+paginate = "5"
+pygmentsCodefences = true
+pygmentsStyle = "pygments"
+
+[Author]
+    name = "Steve Klassen"
+
+[Params]
+    subtitle = "... is better than the best memory." # Subtitle of your site
+    post_meta = ["date", "categories"]
+    post_navigation = true
+    authorbox = true
+
+[Params.sidebar]
+    home = "right"
+    widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+
+[Params.widgets.social]
+    twitter = "mrxinu"
+    linkedin = "mrxinu"
+    github = "mrxinu"
+    email = "sklassen@gmail.com"
