@@ -1,7 +1,7 @@
 baseURL = "https://mrxinu.com/"
 languageCode = "en-us"
 title = "The Palest Ink"
-theme = "hugo-theme-bootstrap"
+theme = "ghostwriter"
 paginate = "5"
 pygmentsCodefences = true
 pygmentsStyle = "pygments"
